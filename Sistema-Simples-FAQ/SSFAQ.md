@@ -7,7 +7,7 @@ O objetivo é permitir que o usuário faça perguntas e receba respostas previam
 
 ---
 
-## 📌 Estrutura do Código
+##  Estrutura do Código
 
 ### Classes
 - **Pergunta**
@@ -27,7 +27,7 @@ O objetivo é permitir que o usuário faça perguntas e receba respostas previam
 
 ---
 
-## ⚙️ Funcionamento
+##  Funcionamento
 
 1. **Cadastro de perguntas e respostas**
    - O sistema inicia com algumas perguntas e respostas adicionadas manualmente.
@@ -47,7 +47,7 @@ O objetivo é permitir que o usuário faça perguntas e receba respostas previam
 
 ---
 
-## 🧩 Exemplo de Uso
+##  Exemplo de Uso
 
 ### Perguntas cadastradas:
 - "Qual é a capital da França?"
