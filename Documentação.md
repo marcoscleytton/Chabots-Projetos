@@ -1,10 +1,10 @@
-# 📚Documentação do Projeto Chatbot
+# Documentação do Projeto Chatbot
 
 Este projeto reúne diferentes versões de um **chatbot em Python**, desde a versão mais simples até integrações avançadas com **Google Gemini AI**, além de interfaces **web** e **desktop (PyQt5)**.
 
 ---
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```markdown
 chatbot_project/
@@ -31,7 +31,7 @@ chatbot_project/
 
 ---
 
-## 📖 Documentação por pasta
+##  Documentação por pasta
 
 ### 1. `core/`
 Contém a lógica principal do chatbot em diferentes versões:
