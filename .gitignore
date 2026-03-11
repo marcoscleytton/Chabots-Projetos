@@ -1,0 +1,27 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Arquivos de configuração locais
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependências geradas
+*.egg-info/
+dist/
+build/
